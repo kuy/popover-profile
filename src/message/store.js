@@ -4,7 +4,7 @@ import createSagaMiddleware from 'redux-saga';
 import saga from './sagas';
 import reducer from './reducers';
 
-export default function configureStore(initialState = {}) {
+export default function configureStore(initialState) {
   return createStore(
     reducer,
     initialState,
