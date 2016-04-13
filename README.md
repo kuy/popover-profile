@@ -2,6 +2,11 @@
 
 A small app to demonstrate shared self-contained components.
 
+## Demo
+
++ [Timeline](http://kuy.github.io/popover-profile/timeline.html)
++ [Message](http://kuy.github.io/popover-profile/message.html)
+
 ## Get Started
 
 Please grab the code from [github](https://github.com/kuy/popover-profile) and install dependencies.
